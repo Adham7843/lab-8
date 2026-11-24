@@ -1,0 +1,22 @@
+{
+  "name": "lab-8",
+  "version": "1.0.0",
+  "description": "CSE343 Lab 8 - Mini-twitter REST API built with Node.js and Express (in-memory storage)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "express",
+    "rest-api",
+    "cse343",
+    "lab"
+  ],
+  "author": "Adham7843",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
